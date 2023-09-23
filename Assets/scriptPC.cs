@@ -7,8 +7,16 @@ public class scriptPC : MonoBehaviour
     // Start is called before the first frame update
     private Rigidbody2D rbd;
     public float vel;
+    public float pulo = 500;
     private Animator anim;
     private bool dir = true;
+
+    public GameObject pe;
+    public LayerMask mascara;
+    private bool chao;
+
+    
+
 
     void Start()
     {
@@ -20,6 +28,7 @@ public class scriptPC : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
         float x = Input.GetAxis("Horizontal");
         rbd.velocity = new Vector2(x * vel, rbd.velocity.y);
 
@@ -36,5 +45,27 @@ public class scriptPC : MonoBehaviour
             transform.Rotate(0, 180, 0);
             dir = !dir;
         }
+
+
+        if (Input.GetKeyDown(KeyCode.Space) && chao) {
+            rbd.AddForce(new Vector2(0, pulo));
+        }
+        RaycastHit2D hit;
+        hit = Physics2D.Raycast(pe.transform.position,
+            -pe.transform.up,
+            0.1f,
+            mascara);
+
+        if (hit.collider != null)
+        {
+            chao = true;
+        }
+        else {
+            chao = false;
+        }
+
+        //transform.Translate(new Vector2(x*Time.deltaTime, 0));
+
     }
+
 }
