@@ -1,0 +1,1860 @@
+fileFormatVersion: 2
+guid: a99b12504d86e7e4d87a746c6714d4af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3488005527400254646
+    second: manny_0
+  - first:
+      213: 2544880319155340882
+    second: manny_1
+  - first:
+      213: 7637190166385415455
+    second: manny_2
+  - first:
+      213: -5071810971078570472
+    second: manny_3
+  - first:
+      213: -3903996634340064614
+    second: manny_4
+  - first:
+      213: 2568292302289532232
+    second: manny_5
+  - first:
+      213: 1860066327725633930
+    second: manny_6
+  - first:
+      213: 8979331249365737836
+    second: manny_7
+  - first:
+      213: -5839313591956335535
+    second: manny_8
+  - first:
+      213: -676255459222641058
+    second: manny_9
+  - first:
+      213: 4381424352924253299
+    second: manny_10
+  - first:
+      213: -4548445972475945669
+    second: manny_11
+  - first:
+      213: 5234296442114761805
+    second: manny_12
+  - first:
+      213: -8576389795197284836
+    second: manny_13
+  - first:
+      213: -5191424494657754395
+    second: manny_14
+  - first:
+      213: -4369913295452833356
+    second: manny_15
+  - first:
+      213: 2689502384952332278
+    second: manny_16
+  - first:
+      213: 4879901766697220726
+    second: manny_17
+  - first:
+      213: 2087614537397674014
+    second: manny_18
+  - first:
+      213: 5786667707291980356
+    second: manny_19
+  - first:
+      213: -122171026023002369
+    second: manny_20
+  - first:
+      213: 105602584363942734
+    second: manny_21
+  - first:
+      213: -1615911685952992953
+    second: manny_22
+  - first:
+      213: -925751057222099222
+    second: manny_23
+  - first:
+      213: -2340997325893528397
+    second: manny_24
+  - first:
+      213: 5373368797068082179
+    second: manny_25
+  - first:
+      213: 8094286144662614738
+    second: manny_26
+  - first:
+      213: 16049293106084946
+    second: manny_27
+  - first:
+      213: 567263621362865630
+    second: manny_28
+  - first:
+      213: -3087621678282115808
+    second: manny_29
+  - first:
+      213: -230604542721095388
+    second: manny_30
+  - first:
+      213: 1039305214774409095
+    second: manny_31
+  - first:
+      213: 2552781484709995564
+    second: manny_32
+  - first:
+      213: -4242374400864378351
+    second: manny_33
+  - first:
+      213: -5374105791376318306
+    second: manny_34
+  - first:
+      213: -6514967337095484717
+    second: manny_35
+  - first:
+      213: -4467826375256466709
+    second: manny_36
+  - first:
+      213: 7576562506510675073
+    second: manny_37
+  - first:
+      213: -2040094554474164289
+    second: manny_38
+  - first:
+      213: 2450035180013255522
+    second: manny_39
+  - first:
+      213: -7918591249638287035
+    second: manny_40
+  - first:
+      213: 1710013370798460935
+    second: manny_41
+  - first:
+      213: -1179169058863090598
+    second: manny_42
+  - first:
+      213: -2341036091642348698
+    second: manny_43
+  - first:
+      213: 2848880816790068788
+    second: manny_44
+  - first:
+      213: -408917130192000654
+    second: manny_45
+  - first:
+      213: -81310562862812773
+    second: manny_46
+  - first:
+      213: -8347717219309442184
+    second: manny_47
+  - first:
+      213: 8189356027991894512
+    second: manny_48
+  - first:
+      213: -7284531802874198101
+    second: manny_49
+  - first:
+      213: -784133648598188786
+    second: manny_50
+  - first:
+      213: -1909610759004677842
+    second: manny_51
+  - first:
+      213: 2232012160894306204
+    second: manny_52
+  - first:
+      213: 2512576886165021303
+    second: manny_53
+  - first:
+      213: 5168003666823310769
+    second: manny_54
+  - first:
+      213: -7639923852233989437
+    second: manny_55
+  - first:
+      213: 5833909112893055562
+    second: manny_56
+  - first:
+      213: -7138298579987452072
+    second: manny_57
+  - first:
+      213: -4807327971521563469
+    second: manny_58
+  - first:
+      213: -6376257276347082704
+    second: manny_59
+  - first:
+      213: 2908256044263573886
+    second: manny_60
+  - first:
+      213: -5848653728690572778
+    second: manny_61
+  - first:
+      213: -6938729197793810013
+    second: manny_62
+  - first:
+      213: 2097386331177636978
+    second: manny_63
+  - first:
+      213: -5050775669402907609
+    second: manny_64
+  - first:
+      213: -2147184375136400417
+    second: manny_65
+  - first:
+      213: 7800565836038146907
+    second: manny_66
+  - first:
+      213: 6371947516046611670
+    second: manny_67
+  - first:
+      213: 1441450783899505908
+    second: manny_68
+  - first:
+      213: 4077223253569709755
+    second: manny_69
+  - first:
+      213: 7255542602878861413
+    second: manny_70
+  - first:
+      213: 2039293152158025110
+    second: manny_71
+  - first:
+      213: -6890949351863141118
+    second: manny_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: manny_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 734
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4375bcf37d189fc0800000000000000
+      internalID: -3488005527400254646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 735
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256032bba2b315320800000000000000
+      internalID: 2544880319155340882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 734
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1552852effbcf960800000000000000
+      internalID: 7637190166385415455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 735
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eceec1bce4d99b0800000000000000
+      internalID: -5071810971078570472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 681
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9207ddceb732d9c0800000000000000
+      internalID: -3903996634340064614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 685
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8457655dd3864a320800000000000000
+      internalID: 2568292302289532232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 687
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8170c2587840d910800000000000000
+      internalID: 1860066327725633930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 686
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61620f523efc9c70800000000000000
+      internalID: 8979331249365737836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 682
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1541553e93796fea0800000000000000
+      internalID: -5839313591956335535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 653
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56ad972e357d96f0800000000000000
+      internalID: -676255459222641058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 655
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cbb463c32fdcc30800000000000000
+      internalID: 4381424352924253299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 640
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dd38a9c7ca0e0c0800000000000000
+      internalID: -4548445972475945669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 640
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d446751b1e4f3a840800000000000000
+      internalID: 5234296442114761805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 641
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e0bf1cbea8af880800000000000000
+      internalID: -8576389795197284836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 640
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaa9ad6dea54f7b0800000000000000
+      internalID: -5191424494657754395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 587
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9f645b203fa53c0800000000000000
+      internalID: -4369913295452833356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 593
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff46a56b28035520800000000000000
+      internalID: 2689502384952332278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 589
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67af9ce4dc4e8b340800000000000000
+      internalID: 4879901766697220726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 545
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10a7817c52b8fc10800000000000000
+      internalID: 2087614537397674014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 543
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442dc56ee9f5e4050800000000000000
+      internalID: 5786667707291980356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 538
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffecd006916fd4ef0800000000000000
+      internalID: -122171026023002369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 539
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e434060bdfc277100800000000000000
+      internalID: 105602584363942734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 493
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7498e5212e02399e0800000000000000
+      internalID: -1615911685952992953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 496
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee95db71521723f0800000000000000
+      internalID: -925751057222099222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_24
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 494
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b41af1d55b138fd0800000000000000
+      internalID: -2340997325893528397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 497
+        width: 56
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c396c937a029a40800000000000000
+      internalID: 5373368797068082179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 443
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d23bfafc5ea45070800000000000000
+      internalID: 8094286144662614738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 445
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cfb7e3fb4093000800000000000000
+      internalID: 16049293106084946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_28
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 449
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5d55512435fd700800000000000000
+      internalID: 567263621362865630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 450
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025f23941709625d0800000000000000
+      internalID: -3087621678282115808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 397
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4298483e36abcccf0800000000000000
+      internalID: -230604542721095388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_31
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 420
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787f6db169a5c6e00800000000000000
+      internalID: 1039305214774409095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_32
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 401
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2465513c3d4d6320800000000000000
+      internalID: 2552781484709995564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 400
+        width: 51
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112a440a5fe0025c0800000000000000
+      internalID: -4242374400864378351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 337
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9025a781475b65b0800000000000000
+      internalID: -5374105791376318306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 345
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daa62589bf2695a0800000000000000
+      internalID: -6514967337095484717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 349
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea97b055971ff1c0800000000000000
+      internalID: -4467826375256466709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_37
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 349
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cac13157b552960800000000000000
+      internalID: 7576562506510675073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 350
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfcb54cfc020b3e0800000000000000
+      internalID: -2040094554474164289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_39
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 352
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b76efe306400220800000000000000
+      internalID: 2450035180013255522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 288
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5491bc386338b1290800000000000000
+      internalID: -7918591249638287035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_41
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 289
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7005c97c9103bb710800000000000000
+      internalID: 1710013370798460935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_42
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 286
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54755c0dffb2afe0800000000000000
+      internalID: -1179169058863090598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_43
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 236
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bf947f318f28fd0800000000000000
+      internalID: -2341036091642348698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_44
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 290
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e52344202498720800000000000000
+      internalID: 2848880816790068788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_45
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 291
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2796550690c335af0800000000000000
+      internalID: -408917130192000654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 238
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91331059702fdef0800000000000000
+      internalID: -81310562862812773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 241
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b26a9ca63f62c80800000000000000
+      internalID: -8347717219309442184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 185
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f929ab1bef66a170800000000000000
+      internalID: 8189356027991894512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_49
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 186
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7c5ae9be428ea90800000000000000
+      internalID: -7284531802874198101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_50
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 188
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dbfd2e9923e15f0800000000000000
+      internalID: -784133648598188786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_51
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 188
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29134ad123bf75e0800000000000000
+      internalID: -1909610759004677842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_52
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 189
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9705701c33b9fe10800000000000000
+      internalID: 2232012160894306204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 133
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77229b2ad577ed220800000000000000
+      internalID: 2512576886165021303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_54
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 132
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd6be624ff68b740800000000000000
+      internalID: 5168003666823310769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_55
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 147
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c22f840cb989f590800000000000000
+      internalID: -7639923852233989437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_56
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 135
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42a7e5cd6536f050800000000000000
+      internalID: 5833909112893055562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_57
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 134
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f2c27034bafec90800000000000000
+      internalID: -7138298579987452072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_58
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 137
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b478a22ea0f84db0800000000000000
+      internalID: -4807327971521563469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_59
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 138
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03815de3acbf287a0800000000000000
+      internalID: -6376257276347082704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_60
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 113
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e798632b6733c5820800000000000000
+      internalID: 2908256044263573886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_61
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 120
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6127227db6865dea0800000000000000
+      internalID: -5848653728690572778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_62
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 116
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a96edcbe8ea4bf90800000000000000
+      internalID: -6938729197793810013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_63
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 74
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2745a9a71c96b1d10800000000000000
+      internalID: 2097386331177636978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_64
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 78
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ccd01f94a08e9b0800000000000000
+      internalID: -5050775669402907609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_65
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 79
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbc9b4ef2ba332e0800000000000000
+      internalID: -2147184375136400417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_66
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 81
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b0a187c4d214c60800000000000000
+      internalID: 7800565836038146907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_67
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 12
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4146d7184bd6850800000000000000
+      internalID: 6371947516046611670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_68
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 12
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4d98fc9df010410800000000000000
+      internalID: 1441450783899505908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_69
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 56
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb62cf272f4359830800000000000000
+      internalID: 4077223253569709755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_70
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 12
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560ce494e8dd0b460800000000000000
+      internalID: 7255542602878861413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_71
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 55
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695044731560d4c10800000000000000
+      internalID: 2039293152158025110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: manny_72
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 105
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d3df4031e6e50a0800000000000000
+      internalID: -6890949351863141118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
