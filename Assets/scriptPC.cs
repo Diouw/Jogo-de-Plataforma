@@ -12,6 +12,7 @@ public class scriptPC : MonoBehaviour
     private bool dir = true;
 
     public GameObject pe;
+    public GameObject pe2;
     public LayerMask mascara;
     private bool chao;
 
@@ -56,12 +57,20 @@ public class scriptPC : MonoBehaviour
             0.1f,
             mascara);
 
-        if (hit.collider != null)
+        RaycastHit2D hit2;
+        hit2 = Physics2D.Raycast(pe2.transform.position,
+            -pe2.transform.up,
+            0.1f,
+            mascara);
+
+        if (hit.collider != null || hit2.collider !=null)
         {
             chao = true;
+            transform.parent = hit.collider.transform;
         }
         else {
             chao = false;
+            transform.parent = null;
         }
 
         //transform.Translate(new Vector2(x*Time.deltaTime, 0));

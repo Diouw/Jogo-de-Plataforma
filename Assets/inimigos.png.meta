@@ -1,0 +1,4956 @@
+fileFormatVersion: 2
+guid: 1d8d53ce1669f914b8dcd3b0506e4df2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7376822450380381918
+    second: inimigos_0
+  - first:
+      213: -4848585047923917627
+    second: inimigos_1
+  - first:
+      213: 4099605276018034205
+    second: inimigos_2
+  - first:
+      213: -3508056465747881759
+    second: inimigos_3
+  - first:
+      213: -8047284754613166359
+    second: inimigos_4
+  - first:
+      213: -39839575309668648
+    second: inimigos_5
+  - first:
+      213: -2986108078917721683
+    second: inimigos_6
+  - first:
+      213: -8544529065540369722
+    second: inimigos_7
+  - first:
+      213: 8838805912488702312
+    second: inimigos_8
+  - first:
+      213: -7205838418213400859
+    second: inimigos_9
+  - first:
+      213: -2074648525506311024
+    second: inimigos_10
+  - first:
+      213: -3929780673809360261
+    second: inimigos_11
+  - first:
+      213: -7475179144282918132
+    second: inimigos_12
+  - first:
+      213: 1209826923092217907
+    second: inimigos_13
+  - first:
+      213: 9002441160172480739
+    second: inimigos_14
+  - first:
+      213: 7051566616829019199
+    second: inimigos_15
+  - first:
+      213: -6922360208276238874
+    second: inimigos_16
+  - first:
+      213: -2776142937626030345
+    second: inimigos_17
+  - first:
+      213: 5881003249121621198
+    second: inimigos_18
+  - first:
+      213: -2967444666661328045
+    second: inimigos_19
+  - first:
+      213: -8212187724841802104
+    second: inimigos_20
+  - first:
+      213: 1032222969038067532
+    second: inimigos_21
+  - first:
+      213: -1706112337060700986
+    second: inimigos_22
+  - first:
+      213: 3105609776677306887
+    second: inimigos_23
+  - first:
+      213: 3287769037995195116
+    second: inimigos_24
+  - first:
+      213: 9113131929628325191
+    second: inimigos_25
+  - first:
+      213: -4583024767227870700
+    second: inimigos_26
+  - first:
+      213: 5874120735661025297
+    second: inimigos_27
+  - first:
+      213: 2958200471274797680
+    second: inimigos_28
+  - first:
+      213: 2157744804451795387
+    second: inimigos_29
+  - first:
+      213: 2821276017510202667
+    second: inimigos_30
+  - first:
+      213: 7488131619199698110
+    second: inimigos_31
+  - first:
+      213: 7110537540646677234
+    second: inimigos_32
+  - first:
+      213: 8780977831923800932
+    second: inimigos_33
+  - first:
+      213: 1160799674232368232
+    second: inimigos_34
+  - first:
+      213: 6946116825849527294
+    second: inimigos_35
+  - first:
+      213: 7062508711406592573
+    second: inimigos_36
+  - first:
+      213: 7210916010218392641
+    second: inimigos_37
+  - first:
+      213: -7088589144301516433
+    second: inimigos_38
+  - first:
+      213: 5773756872710449506
+    second: inimigos_39
+  - first:
+      213: -692655146313905367
+    second: inimigos_40
+  - first:
+      213: -6856172307574256692
+    second: inimigos_41
+  - first:
+      213: 8431816148078943873
+    second: inimigos_42
+  - first:
+      213: -7710652768481114031
+    second: inimigos_43
+  - first:
+      213: 7299665350815282786
+    second: inimigos_44
+  - first:
+      213: -1251135937174590077
+    second: inimigos_45
+  - first:
+      213: 5236148388546693214
+    second: inimigos_46
+  - first:
+      213: 8033721897650446426
+    second: inimigos_47
+  - first:
+      213: -7022301409485572329
+    second: inimigos_48
+  - first:
+      213: -5107141543040092766
+    second: inimigos_49
+  - first:
+      213: 5425931977357389326
+    second: inimigos_50
+  - first:
+      213: 2982231888561556524
+    second: inimigos_51
+  - first:
+      213: -1689188849804248330
+    second: inimigos_52
+  - first:
+      213: 6935122205517982219
+    second: inimigos_53
+  - first:
+      213: -8569920300394599626
+    second: inimigos_54
+  - first:
+      213: -3067131767559501014
+    second: inimigos_55
+  - first:
+      213: -5196165979153826388
+    second: inimigos_56
+  - first:
+      213: 1651109695618353817
+    second: inimigos_57
+  - first:
+      213: -3154775129095462437
+    second: inimigos_58
+  - first:
+      213: 1241516947614154955
+    second: inimigos_59
+  - first:
+      213: 9153446425970581731
+    second: inimigos_60
+  - first:
+      213: -4901013943169323960
+    second: inimigos_61
+  - first:
+      213: 2513742452450917925
+    second: inimigos_62
+  - first:
+      213: 1802210328047568437
+    second: inimigos_63
+  - first:
+      213: -5640111663689880744
+    second: inimigos_64
+  - first:
+      213: -159349764408241417
+    second: inimigos_65
+  - first:
+      213: -3711542577920741309
+    second: inimigos_66
+  - first:
+      213: 4630829698100734103
+    second: inimigos_67
+  - first:
+      213: 6062556906445847554
+    second: inimigos_68
+  - first:
+      213: -3870629885469839599
+    second: inimigos_69
+  - first:
+      213: 5506830654200247171
+    second: inimigos_70
+  - first:
+      213: -6810775297643821626
+    second: inimigos_71
+  - first:
+      213: -8365665948025228332
+    second: inimigos_72
+  - first:
+      213: 3568748122680575295
+    second: inimigos_73
+  - first:
+      213: 9154947813831347255
+    second: inimigos_74
+  - first:
+      213: 3633744213743686201
+    second: inimigos_75
+  - first:
+      213: -8542771780324360841
+    second: inimigos_76
+  - first:
+      213: 2292828664388380077
+    second: inimigos_77
+  - first:
+      213: -6384149282076357051
+    second: inimigos_78
+  - first:
+      213: 519528388878954015
+    second: inimigos_79
+  - first:
+      213: -8009973033679215002
+    second: inimigos_80
+  - first:
+      213: 5418866760054917216
+    second: inimigos_81
+  - first:
+      213: 8155459679821863026
+    second: inimigos_82
+  - first:
+      213: 6725358529096887803
+    second: inimigos_83
+  - first:
+      213: 6691778165955257865
+    second: inimigos_84
+  - first:
+      213: 2486242141586279984
+    second: inimigos_85
+  - first:
+      213: 3526018552639198735
+    second: inimigos_86
+  - first:
+      213: -475247162759550254
+    second: inimigos_87
+  - first:
+      213: -2837759959942942354
+    second: inimigos_88
+  - first:
+      213: -6857748807371198937
+    second: inimigos_89
+  - first:
+      213: 4715083685434064016
+    second: inimigos_90
+  - first:
+      213: 465320641183599211
+    second: inimigos_91
+  - first:
+      213: 7080110231915417340
+    second: inimigos_92
+  - first:
+      213: 3692919378354090444
+    second: inimigos_93
+  - first:
+      213: -56866524937473973
+    second: inimigos_94
+  - first:
+      213: 7229460625944643439
+    second: inimigos_95
+  - first:
+      213: 8146757508573611080
+    second: inimigos_96
+  - first:
+      213: 7052169104009232474
+    second: inimigos_97
+  - first:
+      213: 1007701385502861804
+    second: inimigos_98
+  - first:
+      213: -7497803230364263247
+    second: inimigos_99
+  - first:
+      213: 8157357732803605803
+    second: inimigos_100
+  - first:
+      213: -949202010889336900
+    second: inimigos_101
+  - first:
+      213: 324362531765670070
+    second: inimigos_102
+  - first:
+      213: -7934714418681372322
+    second: inimigos_103
+  - first:
+      213: 2121235755385793151
+    second: inimigos_104
+  - first:
+      213: 4619587500190651079
+    second: inimigos_105
+  - first:
+      213: 5727550846962560259
+    second: inimigos_106
+  - first:
+      213: -2789661320607027918
+    second: inimigos_107
+  - first:
+      213: 9080896932111638593
+    second: inimigos_108
+  - first:
+      213: -931178425813356406
+    second: inimigos_109
+  - first:
+      213: 6621509083774090181
+    second: inimigos_110
+  - first:
+      213: -2845694583094989858
+    second: inimigos_111
+  - first:
+      213: 2314854666695614579
+    second: inimigos_112
+  - first:
+      213: 8444971756652623681
+    second: inimigos_113
+  - first:
+      213: -1136900010522773305
+    second: inimigos_114
+  - first:
+      213: 196683307496073766
+    second: inimigos_115
+  - first:
+      213: -580020163314325286
+    second: inimigos_116
+  - first:
+      213: 9065116339310140976
+    second: inimigos_117
+  - first:
+      213: -8110924733284098607
+    second: inimigos_118
+  - first:
+      213: 5745665275612544504
+    second: inimigos_119
+  - first:
+      213: 4653468501203424248
+    second: inimigos_120
+  - first:
+      213: -3344170837841161943
+    second: inimigos_121
+  - first:
+      213: 6747533925649768419
+    second: inimigos_122
+  - first:
+      213: 3772287013083231066
+    second: inimigos_123
+  - first:
+      213: 814331908406163948
+    second: inimigos_124
+  - first:
+      213: -5755068300555201655
+    second: inimigos_125
+  - first:
+      213: -2206774188605950933
+    second: inimigos_126
+  - first:
+      213: -1725328927773119877
+    second: inimigos_127
+  - first:
+      213: -4277493262827520833
+    second: inimigos_128
+  - first:
+      213: 4345146603014248955
+    second: inimigos_129
+  - first:
+      213: -7604204154393647265
+    second: inimigos_130
+  - first:
+      213: -8138548505969595721
+    second: inimigos_131
+  - first:
+      213: -2816934839306792253
+    second: inimigos_132
+  - first:
+      213: -4443689581415282384
+    second: inimigos_133
+  - first:
+      213: -898996254946125080
+    second: inimigos_134
+  - first:
+      213: 7822863529312274339
+    second: inimigos_135
+  - first:
+      213: 8801931802824056737
+    second: inimigos_136
+  - first:
+      213: -2524188401176074381
+    second: inimigos_137
+  - first:
+      213: -1842010514828882291
+    second: inimigos_138
+  - first:
+      213: -4464704202609415097
+    second: inimigos_139
+  - first:
+      213: 2555070812273188052
+    second: inimigos_140
+  - first:
+      213: -4053963766453956261
+    second: inimigos_141
+  - first:
+      213: -1754847178306610876
+    second: inimigos_142
+  - first:
+      213: -8988707439454330919
+    second: inimigos_143
+  - first:
+      213: 5054384857206215918
+    second: inimigos_144
+  - first:
+      213: 4561425330724239745
+    second: inimigos_145
+  - first:
+      213: -5377510989562242989
+    second: inimigos_146
+  - first:
+      213: -4778350857141498658
+    second: inimigos_147
+  - first:
+      213: 5901677492270371953
+    second: inimigos_148
+  - first:
+      213: 4401809842595701681
+    second: inimigos_149
+  - first:
+      213: 6968091254215076048
+    second: inimigos_150
+  - first:
+      213: -3146913341520102836
+    second: inimigos_151
+  - first:
+      213: -7608180235798132375
+    second: inimigos_152
+  - first:
+      213: 6828630671639646960
+    second: inimigos_153
+  - first:
+      213: 3899753555877170898
+    second: inimigos_154
+  - first:
+      213: -3355362694442264773
+    second: inimigos_155
+  - first:
+      213: -8013406005927858802
+    second: inimigos_156
+  - first:
+      213: 1420304015071278157
+    second: inimigos_157
+  - first:
+      213: 5937816623170659214
+    second: inimigos_158
+  - first:
+      213: -2422708994758547589
+    second: inimigos_159
+  - first:
+      213: 662536345821559236
+    second: inimigos_160
+  - first:
+      213: 172505049939012836
+    second: inimigos_161
+  - first:
+      213: -6309457807049336987
+    second: inimigos_162
+  - first:
+      213: 589874305856238806
+    second: inimigos_163
+  - first:
+      213: 2505838239580176328
+    second: inimigos_164
+  - first:
+      213: -3192475848007599749
+    second: inimigos_165
+  - first:
+      213: -5596054030510655640
+    second: inimigos_166
+  - first:
+      213: 6574825062548839289
+    second: inimigos_167
+  - first:
+      213: 8666977076360251910
+    second: inimigos_168
+  - first:
+      213: 9020280020263662589
+    second: inimigos_169
+  - first:
+      213: -8547529075693799340
+    second: inimigos_170
+  - first:
+      213: -279763960742944894
+    second: inimigos_171
+  - first:
+      213: 1146802679690118842
+    second: inimigos_172
+  - first:
+      213: -5298428233897666004
+    second: inimigos_173
+  - first:
+      213: -2249134481796851135
+    second: inimigos_174
+  - first:
+      213: -2639858479018770594
+    second: inimigos_175
+  - first:
+      213: -8081627547867644421
+    second: inimigos_176
+  - first:
+      213: -8993929861322601721
+    second: inimigos_177
+  - first:
+      213: -4544881673705167424
+    second: inimigos_178
+  - first:
+      213: 8079585817308102483
+    second: inimigos_179
+  - first:
+      213: 3415437366624190595
+    second: inimigos_180
+  - first:
+      213: 4867998927809909451
+    second: inimigos_181
+  - first:
+      213: 3003946412554527190
+    second: inimigos_182
+  - first:
+      213: 6873496275811382872
+    second: inimigos_183
+  - first:
+      213: 7685410888590191269
+    second: inimigos_184
+  - first:
+      213: -8832491147996379866
+    second: inimigos_185
+  - first:
+      213: -55776074641510214
+    second: inimigos_186
+  - first:
+      213: -4435259531245007619
+    second: inimigos_187
+  - first:
+      213: 2950465953575062792
+    second: inimigos_188
+  - first:
+      213: -9065789664290859469
+    second: inimigos_189
+  - first:
+      213: 8319588117407808651
+    second: inimigos_190
+  - first:
+      213: 3108611173690708978
+    second: inimigos_191
+  - first:
+      213: 3354340114977336453
+    second: inimigos_192
+  - first:
+      213: -3374633056273653822
+    second: inimigos_193
+  - first:
+      213: -8012741730371695802
+    second: inimigos_194
+  - first:
+      213: 2826804977538981701
+    second: inimigos_195
+  - first:
+      213: -4384623460369561032
+    second: inimigos_196
+  - first:
+      213: 6464114537908502034
+    second: inimigos_197
+  - first:
+      213: 7249915067100431156
+    second: inimigos_198
+  - first:
+      213: -3821038932507882936
+    second: inimigos_199
+  - first:
+      213: -8093254084052486766
+    second: inimigos_200
+  - first:
+      213: -2185045344072648606
+    second: inimigos_201
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inimigos_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1481
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22163f1c01340a990800000000000000
+      internalID: -7376822450380381918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1481
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc793b769d56bcb0800000000000000
+      internalID: -4848585047923917627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1488
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d164f542749b4e830800000000000000
+      internalID: 4099605276018034205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1488
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0d51b1b31e05fc0800000000000000
+      internalID: -3508056465747881759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1419
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee9ddae62d425090800000000000000
+      internalID: -8047284754613166359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1419
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de2aa90e16727ff0800000000000000
+      internalID: -39839575309668648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1419
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da16f27f5863f86d0800000000000000
+      internalID: -2986108078917721683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1419
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c24773f51cbb6980800000000000000
+      internalID: -8544529065540369722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_8
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1419
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861f28cb52fb9aa70800000000000000
+      internalID: 8838805912488702312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_9
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1466
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee07850328bffb90800000000000000
+      internalID: -7205838418213400859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_10
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1466
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c8863782e5533e0800000000000000
+      internalID: -2074648525506311024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1466
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ad56c4c4d9679c0800000000000000
+      internalID: -3929780673809360261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_12
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1452
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03bb986c24d24890800000000000000
+      internalID: -7475179144282918132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1356
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3309d963d2b2ac010800000000000000
+      internalID: 1209826923092217907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_14
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1403
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8af67c9881fec70800000000000000
+      internalID: 9002441160172480739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1405
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34c81a2a723cd160800000000000000
+      internalID: 7051566616829019199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1298
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed456a1116deef90800000000000000
+      internalID: -6922360208276238874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1298
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe4715f4b82979d0800000000000000
+      internalID: -2776142937626030345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1298
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4ffc2db458d9150800000000000000
+      internalID: 5881003249121621198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1298
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b26014cc481d6d0800000000000000
+      internalID: -2967444666661328045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_20
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1343
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8862bf736c2780e80800000000000000
+      internalID: -8212187724841802104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1240
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4753864251335e00800000000000000
+      internalID: 1032222969038067532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1240
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccd59a6edba258e0800000000000000
+      internalID: -1706112337060700986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1240
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702c4dd33a7591b20800000000000000
+      internalID: 3105609776677306887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_24
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1262
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea3b3d458080ad20800000000000000
+      internalID: 3287769037995195116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1204
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74534c0e439587e70800000000000000
+      internalID: 9113131929628325191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1221
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412c0909143d560c0800000000000000
+      internalID: -4583024767227870700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1223
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118e4d8cfa1158150800000000000000
+      internalID: 5874120735661025297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_28
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1229
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a3ab8c7a3ad0920800000000000000
+      internalID: 2958200471274797680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1225
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb14b49a779d1fd10800000000000000
+      internalID: 2157744804451795387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1225
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d3605179f272720800000000000000
+      internalID: 2821276017510202667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_31
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1216
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4c4c9a8003be760800000000000000
+      internalID: 7488131619199698110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1221
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa23505834bda260800000000000000
+      internalID: 7110537540646677234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_33
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1214
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bd56480dc4cd970800000000000000
+      internalID: 8780977831923800932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_34
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1213
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c620e472dfb1010800000000000000
+      internalID: 1160799674232368232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1215
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbff157370956060800000000000000
+      internalID: 6946116825849527294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_36
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1215
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32ed761142130260800000000000000
+      internalID: 7062508711406592573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_37
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1215
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c8e3ef7e1521460800000000000000
+      internalID: 7210916010218392641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_38
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1215
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69c73feab540ad90800000000000000
+      internalID: -7088589144301516433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_39
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1213
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2696069f841802050800000000000000
+      internalID: 5773756872710449506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_40
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1215
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b0d1470d13366f0800000000000000
+      internalID: -692655146313905367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_41
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1215
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb8a20ac9bf9d0a0800000000000000
+      internalID: -6856172307574256692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_42
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1215
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ed5adec14d30570800000000000000
+      internalID: 8431816148078943873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_43
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1215
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1580d4ce8224ef490800000000000000
+      internalID: -7710652768481114031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_44
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1213
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266729616fe9d4560800000000000000
+      internalID: 7299665350815282786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_45
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1204
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dabf27e7213aee0800000000000000
+      internalID: -1251135937174590077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_46
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1204
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e584f8297398aa840800000000000000
+      internalID: 5236148388546693214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_47
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1213
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a506bbd50838d7f60800000000000000
+      internalID: 8033721897650446426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_48
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1204
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71733e5e216cb8e90800000000000000
+      internalID: -7022301409485572329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_49
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1213
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5747d43d9cf19b0800000000000000
+      internalID: -5107141543040092766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1205
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ee1d5b268cc4b40800000000000000
+      internalID: 5425931977357389326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1136
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ccd832a14036920800000000000000
+      internalID: 2982231888561556524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_52
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1136
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fafdd8d0bbce88e0800000000000000
+      internalID: -1689188849804248330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_53
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1136
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0aa2dde6e08e3060800000000000000
+      internalID: 6935122205517982219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_54
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1136
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b229564e6811980800000000000000
+      internalID: -8569920300394599626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_55
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1193
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bcc4368eb5f65d0800000000000000
+      internalID: -3067131767559501014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_56
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1191
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadf09a829283e7b0800000000000000
+      internalID: -5196165979153826388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1067
+        width: 29
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a098c258be9e610800000000000000
+      internalID: 1651109695618353817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_58
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1136
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1270c1cbcf734d0800000000000000
+      internalID: -3154775129095462437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_59
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1136
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc04b250611ca3110800000000000000
+      internalID: 1241516947614154955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1067
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0ab820703970f70800000000000000
+      internalID: 9153446425970581731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_61
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1118
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ce72e09c91cfbb0800000000000000
+      internalID: -4901013943169323960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1005
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ef72f217b92e220800000000000000
+      internalID: 2513742452450917925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_63
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1005
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536c0ddaebcb20910800000000000000
+      internalID: 1802210328047568437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_64
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1052
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b2a30135c4ab1b0800000000000000
+      internalID: -5640111663689880744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_65
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1005
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f29769cb30e9cdf0800000000000000
+      internalID: -159349764408241417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1005
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340fb42a0b3fd7cc0800000000000000
+      internalID: -3711542577920741309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_67
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1005
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798af924313044040800000000000000
+      internalID: 4630829698100734103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 951
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cbb47b267822450800000000000000
+      internalID: 6062556906445847554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_69
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 951
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f2f8b60a2c84ac0800000000000000
+      internalID: -3870629885469839599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_70
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 951
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38376d5bd413c6c40800000000000000
+      internalID: 5506830654200247171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 951
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c54feaa3f34b71a0800000000000000
+      internalID: -6810775297643821626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_72
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 991
+        width: 28
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3ff5ab42f27eb80800000000000000
+      internalID: -8365665948025228332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_73
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 989
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35c731728db68130800000000000000
+      internalID: 3568748122680575295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_74
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 902
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c08ac1888ec0f70800000000000000
+      internalID: 9154947813831347255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_75
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 902
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932d2d82c17ad6230800000000000000
+      internalID: 3633744213743686201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_76
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 902
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77df88cc35af17980800000000000000
+      internalID: -8542771780324360841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 936
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5e3b7b583c1df10800000000000000
+      internalID: 2292828664388380077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_78
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 934
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e06c87d02f667a0800000000000000
+      internalID: -6384149282076357051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_79
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 936
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e6cdd215cb53700800000000000000
+      internalID: 519528388878954015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 856
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666a71be6fbd6d090800000000000000
+      internalID: -8009973033679215002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_81
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 889
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068ce3e9b9ea33b40800000000000000
+      internalID: 5418866760054917216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 804
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2789dcb8e530e2170800000000000000
+      internalID: 8155459679821863026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_83
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 804
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfda6f123f5455d50800000000000000
+      internalID: 6725358529096887803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_84
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 804
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9066a7199c8fddc50800000000000000
+      internalID: 6691778165955257865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_85
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 804
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e4bda1e08e08220800000000000000
+      internalID: 2486242141586279984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_86
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 822
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f061f75213feee030800000000000000
+      internalID: 3526018552639198735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_87
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 824
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da643339359769f0800000000000000
+      internalID: -475247162759550254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_88
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 828
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6136cdf9504e98d0800000000000000
+      internalID: -2837759959942942354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_89
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 826
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ee7c92bc164d0a0800000000000000
+      internalID: -6857748807371198937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_90
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 816
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c798c51a75f6140800000000000000
+      internalID: 4715083685434064016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_91
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 820
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ac76468a6257600800000000000000
+      internalID: 465320641183599211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_92
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 804
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe4def6eba914260800000000000000
+      internalID: 7080110231915417340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_93
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 812
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1b3f2db92ef3330800000000000000
+      internalID: 3692919378354090444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_94
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 814
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40bd756238f53ff0800000000000000
+      internalID: -56866524937473973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_95
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 804
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f678a1fc224345460800000000000000
+      internalID: 7229460625944643439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_96
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 804
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844c6c96ac81f0170800000000000000
+      internalID: 8146757508573611080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_97
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 804
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a508474af665ed160800000000000000
+      internalID: 7052169104009232474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_98
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 791
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9219232131cfd00800000000000000
+      internalID: 1007701385502861804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_99
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 782
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc9c52efa372f790800000000000000
+      internalID: -7497803230364263247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_100
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 784
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b257b8173a1c43170800000000000000
+      internalID: 8157357732803605803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_101
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 754
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7cad8dcc1c3d2f0800000000000000
+      internalID: -949202010889336900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_102
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 754
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0d65c010e508400800000000000000
+      internalID: 324362531765670070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_103
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 754
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51a350b64b32e190800000000000000
+      internalID: -7934714418681372322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_104
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 717
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aa0a44ea4207d10800000000000000
+      internalID: 2121235755385793151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_105
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 740
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2d2b51b521c1040800000000000000
+      internalID: 4619587500190651079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_106
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 740
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30de03246295c7f40800000000000000
+      internalID: 5727550846962560259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_107
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 659
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d22952fc12949d0800000000000000
+      internalID: -2789661320607027918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_108
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 704
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140e278a5a3d50e70800000000000000
+      internalID: 9080896932111638593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_109
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 704
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8033e2c72ac313f0800000000000000
+      internalID: -931178425813356406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_110
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 702
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb706fed6354eb50800000000000000
+      internalID: 6621509083774090181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_111
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 590
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbae539adf0288d0800000000000000
+      internalID: -2845694583094989858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_112
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 590
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3702c030e04002020800000000000000
+      internalID: 2314854666695614579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_113
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 590
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1477c7db111923570800000000000000
+      internalID: 8444971756652623681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_114
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 590
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8f6a7c67be830f0800000000000000
+      internalID: -1136900010522773305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_115
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 590
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a6d841d62cab200800000000000000
+      internalID: 196683307496073766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_116
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 622
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8e51b0cba53f7f0800000000000000
+      internalID: -580020163314325286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_117
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 522
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e9b241843cdcd70800000000000000
+      internalID: 9065116339310140976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_118
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 574
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dddba8bde4307f80800000000000000
+      internalID: -8110924733284098607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_119
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 463
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdbe275024bcbf40800000000000000
+      internalID: 5745665275612544504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_120
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 463
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f313bb52f0749040800000000000000
+      internalID: 4653468501203424248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_121
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 463
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921d146575e1791d0800000000000000
+      internalID: -3344170837841161943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_122
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 463
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef504cfa5e04ad50800000000000000
+      internalID: 6747533925649768419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_123
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 509
+        width: 41
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5335ad4d0bd95430800000000000000
+      internalID: 3772287013083231066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_124
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 509
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9b0d16e861d4b00800000000000000
+      internalID: 814331908406163948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_125
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 507
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983db4f4fd3e120b0800000000000000
+      internalID: -5755068300555201655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_126
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 451
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2434a44196ff51e0800000000000000
+      internalID: -2206774188605950933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_127
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 441
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7aa06b3b766e08e0800000000000000
+      internalID: -1725328927773119877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_128
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 443
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcf9046a8a43a4c0800000000000000
+      internalID: -4277493262827520833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_129
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 442
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9d8a950df0d4c30800000000000000
+      internalID: 4345146603014248955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_130
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 398
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5721d14c90787690800000000000000
+      internalID: -7604204154393647265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_131
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 423
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba6562f0411e0f80800000000000000
+      internalID: -8138548505969595721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_132
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 388
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c252bb30bc38e8d0800000000000000
+      internalID: -2816934839306792253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_133
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 387
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03943af8ed7d452c0800000000000000
+      internalID: -4443689581415282384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_134
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 385
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea97815baf1683f0800000000000000
+      internalID: -898996254946125080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_135
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 332
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7440fbee4609c60800000000000000
+      internalID: 7822863529312274339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_136
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 332
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af9a8c075eb62a70800000000000000
+      internalID: 8801931802824056737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_137
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 332
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3772db9d50848fcd0800000000000000
+      internalID: -2524188401176074381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_138
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 332
+        width: 63
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e0717323ddf66e0800000000000000
+      internalID: -1842010514828882291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_139
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 332
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ca548ce2f2a02c0800000000000000
+      internalID: -4464704202609415097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_140
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 332
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc138dcd5f657320800000000000000
+      internalID: 2555070812273188052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_141
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 332
+        width: 64
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b511538ee6d6db7c0800000000000000
+      internalID: -4053963766453956261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_142
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 332
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44910f5f9c785a7e0800000000000000
+      internalID: -1754847178306610876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_143
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 365
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfd9614532b14380800000000000000
+      internalID: -8988707439454330919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_144
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 332
+        width: 64
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4d3e39f38c42640800000000000000
+      internalID: 5054384857206215918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_145
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 299
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189794bbb207d4f30800000000000000
+      internalID: 4561425330724239745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_146
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 299
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358126b0f3e3f55b0800000000000000
+      internalID: -5377510989562242989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_147
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 299
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcc5e35633efadb0800000000000000
+      internalID: -4778350857141498658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_148
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 317
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17491b92968f6e150800000000000000
+      internalID: 5901677492270371953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_149
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 319
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b32cb4eabe561d30800000000000000
+      internalID: 4401809842595701681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_150
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 266
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8eef1c312a3b060800000000000000
+      internalID: 6968091254215076048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_151
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 266
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ab1cb2dfae354d0800000000000000
+      internalID: -3146913341520102836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_152
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 266
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969ca1aa2605a6690800000000000000
+      internalID: -7608180235798132375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_153
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 267
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f21b6d8a6b24ce50800000000000000
+      internalID: 6828630671639646960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_154
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 282
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de00a18235be1630800000000000000
+      internalID: 3899753555877170898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_155
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 218
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37db29286b5f61d0800000000000000
+      internalID: -3355362694442264773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_156
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 218
+        width: 63
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d20b7c1b9aac090800000000000000
+      internalID: -8013406005927858802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_157
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 218
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4472630afee5b310800000000000000
+      internalID: 1420304015071278157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_158
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 248
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e832f7542cc576250800000000000000
+      internalID: 5937816623170659214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_159
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 248
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77e54d510fc06ed0800000000000000
+      internalID: -2422708994758547589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_160
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 173
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9ba77db4dc13900800000000000000
+      internalID: 662536345821559236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_161
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 202
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec639fcd6cd46200800000000000000
+      internalID: 172505049939012836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_162
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 202
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567528dad8d4078a0800000000000000
+      internalID: -6309457807049336987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_163
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 136
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4f0be4e87af2800800000000000000
+      internalID: 589874305856238806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_164
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 136
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf34c63a9686c220800000000000000
+      internalID: 2505838239580176328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_165
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 136
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b793e75712c02b3d0800000000000000
+      internalID: -3192475848007599749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_166
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 136
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867f4872282d652b0800000000000000
+      internalID: -5596054030510655640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_167
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 136
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b1f893f887e3b50800000000000000
+      internalID: 6574825062548839289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_168
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 136
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a08e83bb9474870800000000000000
+      internalID: 8666977076360251910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_169
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 154
+        width: 55
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df37e5e03e87e2d70800000000000000
+      internalID: 9020280020263662589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_170
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 152
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458b2f7a793116980800000000000000
+      internalID: -8547529075693799340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_171
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 154
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fd5f2f8241e1cf0800000000000000
+      internalID: -279763960742944894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_172
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 154
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6456e06f24aef00800000000000000
+      internalID: 1146802679690118842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_173
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 152
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a11a2f7933876b0800000000000000
+      internalID: -5298428233897666004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_174
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a9a60fa1879c0e0800000000000000
+      internalID: -2249134481796851135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_175
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 105
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f78cc23b65d5bd0800000000000000
+      internalID: -2639858479018770594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_176
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 105
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd7652409a48df80800000000000000
+      internalID: -8081627547867644421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_177
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 121
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b861961742f2380800000000000000
+      internalID: -8993929861322601721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_178
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 119
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5ee9492365de0c0800000000000000
+      internalID: -4544881673705167424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_179
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 121
+        width: 36
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ffeec4e74702070800000000000000
+      internalID: 8079585817308102483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_180
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3800b3e6032166f20800000000000000
+      internalID: 3415437366624190595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_181
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 73
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2971bab3b9e8340800000000000000
+      internalID: 4867998927809909451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_182
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 73
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d12f9cb85920b920800000000000000
+      internalID: 3003946412554527190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_183
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 93
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85635bc0270936f50800000000000000
+      internalID: 6873496275811382872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_184
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 38
+        width: 46
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa665feb7018aa60800000000000000
+      internalID: 7685410888590191269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_185
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 56
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625c4e1f810bc6580800000000000000
+      internalID: -8832491147996379866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_186
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0f604a4f7d93ff0800000000000000
+      internalID: -55776074641510214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_187
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcc97194fac272c0800000000000000
+      internalID: -4435259531245007619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_188
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 11
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dc9bc072922f820800000000000000
+      internalID: 2950465953575062792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_189
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336198b3558df2280800000000000000
+      internalID: -9065789664290859469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_190
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 8
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c37af405d157370800000000000000
+      internalID: 8319588117407808651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_191
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f315a07461042b20800000000000000
+      internalID: 3108611173690708978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_192
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c211100920d8e20800000000000000
+      internalID: 3354340114977336453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_193
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf94896d15ea21d0800000000000000
+      internalID: -3374633056273653822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_194
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b0f3c79d50dc090800000000000000
+      internalID: -8012741730371695802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_195
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f54876624da3720800000000000000
+      internalID: 2826804977538981701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_196
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a04da8130b623c0800000000000000
+      internalID: -4384623460369561032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_197
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e79738ce525b950800000000000000
+      internalID: 6464114537908502034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_198
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 8
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4330642875fdc9460800000000000000
+      internalID: 7249915067100431156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_199
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 7
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a0eeae551f8fac0800000000000000
+      internalID: -3821038932507882936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_200
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295721b5a4cfeaf80800000000000000
+      internalID: -8093254084052486766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inimigos_201
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268bd6026d82da1e0800000000000000
+      internalID: -2185045344072648606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
