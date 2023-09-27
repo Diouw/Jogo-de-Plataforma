@@ -16,9 +16,18 @@ public class scriptCamera : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector3 pos = new Vector3(pc.transform.position.x + xOffset,
+        if(pc.transform.position.y < -3){
+            Vector3 pos = new Vector3(pc.transform.position.x + xOffset,    
             pc.transform.position.y + yOffset,
             -10);
-        transform.position = pos;
+            transform.position = pos;
+        }
+        else{
+          Vector3 pos = new Vector3(pc.transform.position.x + xOffset,    
+            0,
+            -10);
+            transform.position = pos;  
+        }
+        
     }
 }
