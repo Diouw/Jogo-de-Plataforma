@@ -8,6 +8,9 @@ public class scriptInimigo : MonoBehaviour
     public float vel;
     private Animator anim;
     private bool esq = true;
+    public float posX1 = 5.23f;
+    public float posX2 = 12.7f;
+
     void Start()
     {
         vel = -5;
@@ -21,12 +24,12 @@ public class scriptInimigo : MonoBehaviour
         
         rbd.velocity = new Vector2(vel, rbd.velocity.y);
 
-        if(transform.position.x <= 5.23 && esq){
+        if(transform.position.x <= posX1 && esq){
             esq = false;
             vel = vel * -1;
             transform.Rotate(0, 180, 0);
         }
-        if(transform.position.x >= 12.7 && esq==false){
+        if(transform.position.x >= posX2 && esq==false){
             esq = true;
             vel = vel * -1;
             transform.Rotate(0, 180, 0);
