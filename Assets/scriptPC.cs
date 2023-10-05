@@ -15,10 +15,7 @@ public class scriptPC : MonoBehaviour
     public GameObject pe2;
     public LayerMask mascara;
     private bool chao;
-
-    
-
-
+    public LayerMask mascaraEspinho;
     void Start()
     {
         vel = 10;
@@ -29,25 +26,33 @@ public class scriptPC : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        Mover();
         
+        Pular();
+
+        Espinhos();
+    }
+
+   void Mover(){
         float x = Input.GetAxis("Horizontal");
-        rbd.velocity = new Vector2(x * vel, rbd.velocity.y);
+            rbd.velocity = new Vector2(x * vel, rbd.velocity.y);
 
-        if (x == 0)
-        {
-            anim.SetBool("movendo", false);
-        }
-        else {
-            anim.SetBool("movendo", true);
-        }
+            if (x == 0)
+            {
+                anim.SetBool("movendo", false);
+            }
+            else {
+                anim.SetBool("movendo", true);
+            }
 
-        if (dir && x < 0 || !dir && x > 0)
-        {
-            transform.Rotate(0, 180, 0);
-            dir = !dir;
-        }
+            if (dir && x < 0 || !dir && x > 0)
+            {
+                transform.Rotate(0, 180, 0);
+                dir = !dir;
+            }
+   } 
 
-
+   void Pular(){
         if (Input.GetKeyDown(KeyCode.Space) && chao) {
             rbd.AddForce(new Vector2(0, pulo));
         }
@@ -73,8 +78,20 @@ public class scriptPC : MonoBehaviour
             transform.parent = null;
         }
 
-        //transform.Translate(new Vector2(x*Time.deltaTime, 0));
+   }
 
-    }
+   void Espinhos(){
+    RaycastHit2D hitEspinho;
+        hitEspinho = Physics2D.Raycast(pe.transform.position,
+            -pe.transform.up,
+            0.1f,
+            mascaraEspinho);
+
+    if (hitEspinho.collider != null)
+        {
+            transform.position = new Vector2(-7,-2);
+        }
+
+   }
 
 }

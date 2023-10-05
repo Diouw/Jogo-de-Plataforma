@@ -11,6 +11,10 @@ public class scriptInimigo : MonoBehaviour
     public float posX1 = 5.23f;
     public float posX2 = 12.7f;
 
+    public GameObject pe;
+    public GameObject pe2;
+    public LayerMask mascaraInimigo;
+
     void Start()
     {
         vel = -5;
@@ -36,4 +40,36 @@ public class scriptInimigo : MonoBehaviour
         }
 
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        
+
+        if (collision.tag == "Player") {
+            RaycastHit2D hit;
+            hit = Physics2D.Raycast(pe.transform.position,
+                -pe.transform.up,
+                0.1f,
+                mascaraInimigo);
+
+            RaycastHit2D hit2;
+            hit2 = Physics2D.Raycast(pe2.transform.position,
+                -pe2.transform.up,
+                0.1f,
+                mascaraInimigo);
+
+            if (hit.collider != null || hit2.collider !=null)
+            {
+                Destroy(this.gameObject);
+            }
+            else{
+                collision.transform.position = new Vector2(-7,-2);
+            }
+        }
+        
+        
+        
+    }
+
+    
 }
